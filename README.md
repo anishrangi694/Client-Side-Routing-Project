@@ -1,16 +1,33 @@
-# React + Vite
+# React Multi-Page Website 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project with multiple pages and client-side routing.  
+This project demonstrates the use of **React Router**, **Tailwind CSS**, and reusable components to build a clean and responsive website.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Home Page** – Introduction and welcome content  
+- **About Page** – Information about the organization/project  
+- **Services Page** – Details of services offered  
+- **Contact Page** – Contact details (Email, Phone, Address)  
+- **Navigation** – Client-side routing using `react-router-dom`  
+- **Responsive UI** – Styled with Tailwind CSS  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- **React.js**  
+- **React Router DOM**  
+- **Tailwind CSS**  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##Images
+<img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/8cc47b2a-5c5e-47d7-aef0-e10d94f2540a" />
+<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/bcbe8f1e-d686-4a38-aa73-6ac49b9f2d48" />
+<img width="1895" height="868" alt="image" src="https://github.com/user-attachments/assets/f4f34fa0-a23c-4d25-a3fb-24787908d940" />
+<img width="1892" height="862" alt="image" src="https://github.com/user-attachments/assets/a8d18b03-fb52-4204-bbf5-39f914cf4799" />
+
+
+
+
